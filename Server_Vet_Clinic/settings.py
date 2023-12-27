@@ -2,8 +2,8 @@
 DEBUG: bool = True
 
 
-SERVER_HOST: str = 'myhost'
-SERVER_PORT: int = 6735
+SERVER_HOST: str = 'localhost'
+SERVER_PORT: int = 2210
 
 
 
